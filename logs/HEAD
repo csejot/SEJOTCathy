@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 b46d193e2fd57b7e1529d1d02d7cd434984408d3 csejot <cathy.sejot@gmail.com> 1721290444 +0200	commit (initial): initprojet
+b46d193e2fd57b7e1529d1d02d7cd434984408d3 0a39999a82761f74b96ae4140db48dfc489e98d7 csejot <cathy.sejot@gmail.com> 1721290532 +0200	commit: modifcouleurfond
+0a39999a82761f74b96ae4140db48dfc489e98d7 0a39999a82761f74b96ae4140db48dfc489e98d7 csejot <cathy.sejot@gmail.com> 1721290584 +0200	checkout: moving from master to texte
+0a39999a82761f74b96ae4140db48dfc489e98d7 8b56117b43e9242a807bc4057ecbba62cebcbf9d csejot <cathy.sejot@gmail.com> 1721290651 +0200	commit: modif du texte
+8b56117b43e9242a807bc4057ecbba62cebcbf9d 0a39999a82761f74b96ae4140db48dfc489e98d7 csejot <cathy.sejot@gmail.com> 1721290676 +0200	checkout: moving from texte to master
+0a39999a82761f74b96ae4140db48dfc489e98d7 8b56117b43e9242a807bc4057ecbba62cebcbf9d csejot <cathy.sejot@gmail.com> 1721290694 +0200	merge texte: Fast-forward

@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = csejot
+	email = cathy.sejot@gmail.com
+[remote "origin"]
+	url = https://github.com/csejot/SEJOTCathy.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
